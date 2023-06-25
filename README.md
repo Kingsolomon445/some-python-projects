@@ -2,6 +2,11 @@
 In this repository contains some python scripting and python GUI projects
 
 
-## [Text to Morse Code Converter](https://github.com/Kingsolomon445/some-python-projects/tree/main/text_morse-code)
-## Features
+### [Text to Morse Code Converter](https://github.com/Kingsolomon445/some-python-projects/tree/main/text_morse-code)
+#### Features
 * This simple text-based app is able to convert text into morse code and vice versa, it also play the morse code sounds
+
+  
+### [Simple Password Cracking Simulation](https://github.com/Kingsolomon445/some-python-projects/tree/main/password_crack_simu)
+#### Features
+* This simple script is just to simply simulate how password is being cracked using error messages e.t.c
