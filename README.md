@@ -1,5 +1,5 @@
 # some-python-projects
-In this repository contains some python scripting and python GUI projects
+In this repository contains some python scripting and python GUI projects(Suitable for Beginners)
 
 
 ### [Text to Morse Code Converter](https://github.com/Kingsolomon445/some-python-projects/tree/main/text_morse-code)
